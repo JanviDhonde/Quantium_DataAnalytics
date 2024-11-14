@@ -1,7 +1,7 @@
 # Quantium Data Analytics Job Simulation  
 
 **Quantium_DataAnalytics:** <br>
-Completed Quantium's Data Analytics Job Simulation on Forage, where I analyzed transaction datasets, identified customer behavior patterns, and conducted uplift testing on store layouts. Developed skills in data preparation, visualization, and statistical testing, providing actionable insights and commercial recommendations.
+Completed Quantium's Data Analytics Job Simulation on Forage, where I analyzed transaction datasets, identified customer behavior patterns, and conducted uplift testing on store layouts. Developed skills in data preparation, visualization, and statistical testing, providing actionable insights and commercial recommendations..
 
 **Repository Overview:**  
 This repository showcases my experience in Quantium’s Data Analytics Job Simulation on the Forage platform. During this simulation, I focused on data preparation, customer analytics, and delivering commercial insights. I analyzed transaction datasets to extract valuable insights, conducted uplift testing on store layouts, and created comprehensive reports to support strategic decision-making.
